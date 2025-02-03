@@ -1,9 +1,9 @@
 # Assigment 01
 
 Use Cases: Data and Problem Statements
-1. E-commerce
-•	Data: Customer purchase history, product reviews, browsing patterns.
-•	Problem Statement:
+# E-commerce
+-	Data: Customer purchase history, product reviews, browsing patterns.
+-	Problem Statement:
 o	Identifying potential consumers based on their preferences.
 o	Recommending products using AI-driven recommendation systems.
 o	Analyzing customer reviews to improve product quality and service.
